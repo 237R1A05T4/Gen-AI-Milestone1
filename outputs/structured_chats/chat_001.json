@@ -1,0 +1,25 @@
+{
+    "conversation_id": "chat_001",
+    "messages": [
+        {
+            "timestamp": "10:30:00",
+            "speaker": "customer",
+            "text": "My order hasn't arrived"
+        },
+        {
+            "timestamp": "10:30:15",
+            "speaker": "agent",
+            "text": "I'm sorry to hear that. Let me check your order."
+        },
+        {
+            "timestamp": "10:31:00",
+            "speaker": "customer",
+            "text": "Order #12345"
+        },
+        {
+            "timestamp": "10:31:30",
+            "speaker": "agent",
+            "text": "It has been delayed. I'll expedite shipping."
+        }
+    ]
+}

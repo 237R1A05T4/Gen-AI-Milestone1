@@ -1,0 +1,4 @@
+[10:30:00] Customer: My order hasn't arrived
+[10:30:15] Agent_Sarah: I'm sorry to hear that. Let me check your order.
+[10:31:00] Customer: Order #12345
+[10:31:30] Agent_Sarah: It has been delayed. I'll expedite shipping.

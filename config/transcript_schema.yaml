@@ -1,0 +1,18 @@
+version: "1.0"
+
+module: "Data Ingestion & Transcription Layer"
+
+call_transcript:
+  description: "Structured output from audio call transcription"
+  fields:
+    conversation_id: string
+    full_transcript: string
+
+chat_transcript:
+  description: "Structured output from chat log processing"
+  fields:
+    conversation_id: string
+    messages:
+      - timestamp: string
+        speaker: agent | customer
+        text: string
